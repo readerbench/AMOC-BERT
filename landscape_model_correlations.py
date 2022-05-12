@@ -33,6 +33,34 @@ def compute_Spearman_correlation(lm_scores, amoc_activation_scores, consider_inf
     return spearman_correlations
 
 
+def compute_Pearson_correlation_per_sentence(lm_scores, amoc_activation_scores, consider_inferred=True):
+    pearson_correlations = {}
+    for sentence_index in range(13):
+        lm_sentence_scores = []
+        amoc_sentence_scores = []
+        for word in lm_scores:
+            if not consider_inferred and lm_scores[word]["type"] == "INFERRED":
+                continue
+            lm_sentence_scores.append(lm_scores[word]["values"][sentence_index])
+            amoc_sentence_scores.append(amoc_activation_scores[word][sentence_index])
+        pearson_correlations[sentence_index + 1] = pearsonr(lm_sentence_scores, amoc_sentence_scores)[0]
+    return pearson_correlations
+
+
+def compute_Spearman_correlation_per_sentence(lm_scores, amoc_activation_scores, consider_inferred=True):
+    spearman_correlations = {}
+    for sentence_index in range(13):
+        lm_sentence_scores = []
+        amoc_sentence_scores = []
+        for word in lm_scores:
+            if not consider_inferred and lm_scores[word]["type"] == "INFERRED":
+                continue
+            lm_sentence_scores.append(lm_scores[word]["values"][sentence_index])
+            amoc_sentence_scores.append(amoc_activation_scores[word][sentence_index])
+        spearman_correlations[sentence_index + 1] = spearmanr(lm_sentence_scores, amoc_sentence_scores).correlation
+    return spearman_correlations
+
+
 if __name__ == "__main__":
     lm_scores = load_lm_json()
     words = list(lm_scores.keys())
@@ -50,12 +78,22 @@ if __name__ == "__main__":
     # sp_values = np.nan_to_num(list(spearman_correlations.values()), nan=0)
     # print(f"Mean: {np.mean(sp_values)}, Std: {np.std(sp_values)}")
     
-    pearson_correlations = compute_Pearson_correlation(lm_scores, amoc_activation_scores, consider_inferred=True)
+    # pearson_correlations = compute_Pearson_correlation(lm_scores, amoc_activation_scores, consider_inferred=True)
+    # pprint(pearson_correlations)
+    # sp_values = np.nan_to_num(list(pearson_correlations.values()), nan=0)
+    # print(f"Mean: {np.mean(sp_values)}, Std: {np.std(sp_values)}")
+    
+    # pearson_correlations = compute_Pearson_correlation(lm_scores, amoc_activation_scores, consider_inferred=False)
+    # pprint(pearson_correlations)
+    # sp_values = np.nan_to_num(list(pearson_correlations.values()), nan=0)
+    # print(f"Mean: {np.mean(sp_values)}, Std: {np.std(sp_values)}")
+    
+    pearson_correlations = compute_Spearman_correlation_per_sentence(lm_scores, amoc_activation_scores, consider_inferred=False)
     pprint(pearson_correlations)
     sp_values = np.nan_to_num(list(pearson_correlations.values()), nan=0)
     print(f"Mean: {np.mean(sp_values)}, Std: {np.std(sp_values)}")
     
-    pearson_correlations = compute_Pearson_correlation(lm_scores, amoc_activation_scores, consider_inferred=False)
+    pearson_correlations = compute_Pearson_correlation_per_sentence(lm_scores, amoc_activation_scores, consider_inferred=False)
     pprint(pearson_correlations)
     sp_values = np.nan_to_num(list(pearson_correlations.values()), nan=0)
     print(f"Mean: {np.mean(sp_values)}, Std: {np.std(sp_values)}")

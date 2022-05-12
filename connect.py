@@ -375,7 +375,7 @@ class AMOCBert():
             lookback_sents = list(full_doc.sents)[max(i-self.number_of_sentences_lookback,0):i]
             current_sent = list(full_doc.sents)[i]
             # remaining_active_concepts_from_graph = self.get_active_concepts_from_graph_that_are_not_in_text(selected_sents)
-            remaining_active_concepts_from_graph = self.get_active_concepts_from_graph()
+            remaining_active_concepts_from_graph = self.get_active_concepts_from_graph(only_text_based=False)
             graph_text = ""
             if remaining_active_concepts_from_graph:
                 graph_text = " ".join(remaining_active_concepts_from_graph) + ". "
@@ -418,13 +418,13 @@ class AMOCBert():
         }
             
     
-    def get_active_concepts_from_graph(self):
-        top_nodes = list(self.amoc_graph.get_max_active_nodes_by_score(only_text_based=True, use_aoe=self.use_aoe).keys())
+    def get_active_concepts_from_graph(self, only_text_based=True):
+        top_nodes = list(self.amoc_graph.get_max_active_nodes_by_score(only_text_based=only_text_based, use_aoe=self.use_aoe).keys())
         return [x.text for x in top_nodes]
     
 
-    def get_active_concepts_from_graph_that_are_not_in_text(self, selected_sents):
-        top_nodes = list(self.amoc_graph.get_max_active_nodes_by_score(only_text_based=True, use_aoe=self.use_aoe).keys())
+    def get_active_concepts_from_graph_that_are_not_in_text(self, selected_sents, only_text_based=True):
+        top_nodes = list(self.amoc_graph.get_max_active_nodes_by_score(only_text_based=only_text_based, use_aoe=self.use_aoe).keys())
         remaining_words = []
         for node in top_nodes:
             is_word_found = False
