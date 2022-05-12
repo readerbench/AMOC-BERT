@@ -1,0 +1,21 @@
+In 1918 a deadly flu virus killed around 50 million people around the world. The virus was known as Spanish influenza (or flu, for short) because it was first reported in Spanish newspapers. Now, after nine years of work, scientists in an American laboratory in Atlanta, Georgia, have recreated the Spanish flu virus, worrying many researchers who fear it will be a serious security risk. The genetic sequence of the virus is also being published online, and some experts fear that this could lead to other laboratories recreating the virus. 
+
+Scientists have recreated the virus in an attempt to understand why the 1918 Spanish flu pandemic was so devastating. In a report in the journal Science, a team led by Dr Jeffery Taubenberger in the USA shows that the recreated virus is extremely effective. When they injected it into mice, it acted very quickly and the mice began to lose weight rapidly, losing 13% of their original weight in two days. Within six days all the mice injected with the virus had died. 
+
+"I didn't expect it to be as lethal as it was," Dr Terrence Tumpey, a scientist working on the project told the journal Nature. In a comparison experiment, similar mice were injected with a contemporary type of flu. Although they lost weight initially, they recovered. Tests showed that the Spanish flu virus multiplied so quickly that after four days mice contained 39,000 times more flu virus than those injected with the more common flu virus. 
+
+The researchers who reconstructed the virus say their work has already provided valuable information about its unique genetic make-up and helps explain why it is so lethal. But other researchers warned that the virus could escape from the laboratory. 
+
+"Some people will wonder whether they have really created a biological weapon," said Professor Ronald Atlas of the University of Louisville in Kentucky. "I am even more worried now than I was before about the possibility of a flu pandemic. It seems that a bird form of the flu virus evolved in 1918 and that led to the deadly outbreak of Spanish flu, in much the same way as Asian bird flu is evolving now." 
+
+Some scientists are worried about the publication of the genetic sequence online. "As soon as the genetic sequence is publicly available, there's a theoretical risk that any molecular biologist with sufficient knowledge could recreate this virus," said Dr John Wood a UK-based virologist. "If the genetic sequence is on a database, then that is a clear security risk." 
+
+It took a long time to recreate the virus. Scientists collected fragments of the virus from preserved samples of lung tissue taken from victims of Spanish flu. Using the fragments, they carefully put the complete genetic code together before using the sequence to rebuild the virus.Researchers then investigated which of the eight genes that make up the virus were most responsible for its deadly nature. They discovered that all eight genes played a part, which probably means that the virus had completely adapted to cause disease in humans, something that could happen again with bird flu. 
+
+In a second paper, published in Nature last week, Taubenberger and his colleagues analysed the genetic make-up of the recreated virus. They were surprised to find that it had no similarities to any of the human viruses in circulation, which probably means that Spanish flu jumped from birds to humans and did not mix with a human virus first.  
+
+The finding that Spanish flu came straight from birds has worried scientists. Previously, a pandemic was thought likely only if a bird flu virus merged with a human flu virus. 
+
+According to Taubenberger, knowing what mutations caused the 1918 Spanish flu virus will help scientists check viruses to work out which might cause a pandemic. The H5N1 bird flu in Asia is already mutating to make it more suited to infecting humans, he said. 
+
+Viruses have escaped from high-security labs before. During the recent Sars outbreak the virus escaped at least twice, once in Taiwan and once in Singapore, when researchers became contaminated. Other scientists warned that the 1918 virus's genetic code could easily be misused. But some scientists believe a pandemic is unlikely even if the virus escapes, because of most people's natural immunities and the availability of antiviral drugs and flu vaccines. 

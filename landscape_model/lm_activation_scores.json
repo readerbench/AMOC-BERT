@@ -1,0 +1,94 @@
+{
+    "knight": {
+        "type": "TEXT_BASED",
+        "values": [5, 5, 2.5, 0, 5, 5, 5, 4, 4, 5, 4, 5, 5]
+    },
+    "ride": {
+        "type": "TEXT_BASED",
+        "values": [5, 3, 1.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "horse": {
+        "type": "INFERRED",
+        "values": [2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "forest": {
+        "type": "TEXT_BASED",
+        "values": [5, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "tree": {
+        "type": "INFERRED",
+        "values": [2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "unfamiliar": {
+        "type": "TEXT_BASED",
+        "values": [0, 5, 3, 1.5, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "country": {
+        "type": "TEXT_BASED",
+        "values": [0, 5, 3, 1.5, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "dragon": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 5, 5, 3, 1.5, 5, 4, 3, 5, 2.5, 0, 0]
+    },
+    "appear": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 5, 3, 1.5, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "kidnap": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 5, 3, 1.5, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "beautiful": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 5, 2.5, 3, 1.5, 0, 0, 0, 0, 0, 0]
+    },
+    "princess": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 5, 4, 4, 2, 0, 0, 0, 5, 5, 4]
+    },
+    "love": {
+        "type": "INFERRED",
+        "values": [0, 0, 0, 0, 0, 4, 2, 0, 0, 0, 0, 0, 0]
+    },
+    "hurry": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 0, 0, 0, 5, 3, 1.5, 0, 0, 0, 0]
+    },
+    "fight": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 0, 0, 0, 0, 5, 3, 3, 1.5, 0, 0]
+    },
+    "armor": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 0, 0, 0, 0, 0, 5, 2.5, 0, 0, 0]
+    },
+    "scorch": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 0, 0, 0, 0, 0, 5, 2.5, 0, 0, 0]
+    },
+    "fire": {
+        "type": "INFERRED",
+        "values": [0, 0, 0, 0, 0, 0, 0, 0, 3, 1.5, 0, 0, 0]
+    },
+    "kill": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 3, 1.5, 0]
+    },
+    "sword": {
+        "type": "INFERRED",
+        "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0]
+    },
+    "free": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 3, 1.5]
+    },
+    "thankful": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 3]
+    },
+    "marry": {
+        "type": "TEXT_BASED",
+        "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
+    }
+}

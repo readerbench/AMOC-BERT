@@ -1,0 +1,178 @@
+A young knight rode through the forest. The girl who rode it was an apprentice knight, and she wore a light pink dress.
+Content words for last sentence: [girl, apprentice, wore, light, pink, dress]
+A young knight rode through the forest.  At this moment he stopped.
+Content words for last sentence: [moment, stopped]
+A young knight rode through the forest. He saw the sky for what it was.
+Content words for last sentence: [sky]
+A young knight rode through the forest. "Aww...no wonder you got this thing."
+Content words for last sentence: [wonder, thing]
+A young knight rode through the forest. The wind had struck him, and his eyes seemed red.
+Content words for last sentence: [wind, struck, eyes, red]
+pink light. A young knight rode through the forest. The knight was unfamiliar with the country.
+Content words for last sentence: [knight, unfamiliar, country]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink unfamiliar country. A young knight rode through the forest. The knight was unfamiliar with the country.  He didn't know where it was, but his mother knew where the other knights were.
+Content words for last sentence: [know, mother, knew]
+pink unfamiliar country. A young knight rode through the forest. The knight was unfamiliar with the country. When the knight came back, there was nothing to see.
+Content words for last sentence: [came]
+pink unfamiliar country. A young knight rode through the forest. The knight was unfamiliar with the country. They were just going to ride back to it.
+Content words for last sentence: []
+pink unfamiliar country. A young knight rode through the forest. The knight was unfamiliar with the country.  The knight looked at the mountain, and it was already dark.
+Content words for last sentence: [looked, mountain, dark]
+pink unfamiliar country. A young knight rode through the forest. The knight was unfamiliar with the country.  [The name of the Knight's nation in the west is Pink.
+Content words for last sentence: [Knight, nation, west, Pink]
+{pink (INFERRED): 822.4078574417867, knight (TEXT_BASED): 192.27113003641892, know (INFERRED): 157.19884337698778, unfamiliar (TEXT_BASED): 115.34448008536205, country (TEXT_BASED): 109.69488386238714}
+pink know. The knight was unfamiliar with the country. Suddenly, a dragon appeared.
+Content words for last sentence: [Suddenly, dragon, appeared]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink know. The knight was unfamiliar with the country. Suddenly, a dragon appeared. It was a powerful monster, an older and less powerful dragon than the one in the castle.
+Content words for last sentence: [powerful, monster, older, powerful, castle]
+pink know. The knight was unfamiliar with the country. Suddenly, a dragon appeared.  The dragon's face changed from red to black.
+Content words for last sentence: [face, changed, red, black]
+pink know. The knight was unfamiliar with the country. Suddenly, a dragon appeared. He roared at the monster in front of him and the knight fell into a deep, deep sleep.
+Content words for last sentence: [roared, monster, fell, deep, deep, sleep]
+pink know. The knight was unfamiliar with the country. Suddenly, a dragon appeared. He turned back and attacked, but his speed was too great.
+Content words for last sentence: [turned, attacked, speed, great]
+pink know. The knight was unfamiliar with the country. Suddenly, a dragon appeared. This dragon, with a white body and three black eyes, was flying down towards him.
+Content words for last sentence: [white, body, black, eyes, flying]
+{pink (INFERRED): 1811.5009257293952, knight (TEXT_BASED): 224.26074784256883, deep (INFERRED): 184.53760959949776, monster (INFERRED): 181.03834960670932, black (INFERRED): 177.12338884730474}
+pink knight deep monster black. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess.
+Content words for last sentence: [dragon, kidnapping, beautiful, princess]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink knight deep monster. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess. Afterward, he was given the opportunity to take revenge.
+Content words for last sentence: [Afterward, opportunity, revenge]
+pink knight deep monster. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess. She had become a little too cute for the princess, so she could not give it a look and was frightened.
+Content words for last sentence: [little, cute, look, frightened]
+pink knight deep monster. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess. It also attacked her for no reason.
+Content words for last sentence: [attacked, reason]
+pink knight deep monster. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess. An old man and his daughter died in the same night.
+Content words for last sentence: [old, man, daughter, died, night]
+pink knight deep monster. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess. Then, in the background, he was saying something very stupid.
+Content words for last sentence: [background, stupid]
+{pink (INFERRED): 2649.945443389976, dragon (TEXT_BASED): 266.0464723689662, knight (TEXT_BASED): 245.2754149293147, deep (INFERRED): 198.06928950582665, monster (INFERRED): 196.47309725765538}
+pink knight deep monster. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess.
+Content words for last sentence: [knight, wanted, free, princess]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink knight deep. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess. He got caught and was taken away by the knight.
+Content words for last sentence: [caught]
+pink knight deep. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess.  Then a mysterious man asked him to help.
+Content words for last sentence: [mysterious, man, asked, help]
+pink knight deep. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess. After she fell into the water, he found her and dragged her to the bottom of a deep well.
+Content words for last sentence: [fell, water, found, dragged]
+pink knight deep. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess. What should he do now that he has the prince with him?
+Content words for last sentence: [prince]
+pink knight deep. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess.  "Why do you want to talk to me?"
+Content words for last sentence: [talk]
+{pink (INFERRED): 3411.496053975931, knight (TEXT_BASED): 374.65023288255725, dragon (TEXT_BASED): 283.4743768375729, princess (TEXT_BASED): 257.61605597893345, man (INFERRED): 217.38569010690236}
+pink dragon man. The knight wanted to free the princess. The knight wanted to marry the princess.
+Content words for last sentence: [knight, wanted, marry, princess]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink dragon. The knight wanted to free the princess. The knight wanted to marry the princess. It was only when she went out for a date that the dragon came to the castle.
+Content words for last sentence: [date, came, castle]
+pink dragon. The knight wanted to free the princess. The knight wanted to marry the princess. She was not just a queen.
+Content words for last sentence: [queen]
+pink dragon. The knight wanted to free the princess. The knight wanted to marry the princess. And then they'll have to kill her.
+Content words for last sentence: [kill]
+pink dragon. The knight wanted to free the princess. The knight wanted to marry the princess. But there were many things that the knight needed to be happy with.
+Content words for last sentence: [things, needed, happy]
+pink dragon. The knight wanted to free the princess. The knight wanted to marry the princess. She wanted the money, but even though the lord couldn't do it, there was nothing that could stop her from getting the royal seal.
+Content words for last sentence: [money, lord, stop, royal, seal]
+{pink (INFERRED): 4150.251899330744, knight (TEXT_BASED): 512.1443005492316, princess (TEXT_BASED): 386.03497549258924, dragon (TEXT_BASED): 307.6204566715326, want (TEXT_BASED): 277.87735440464456}
+pink dragon. The knight wanted to marry the princess. The knight hurried after the dragon.
+Content words for last sentence: [knight, hurried, dragon]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink dragon. The knight wanted to marry the princess. The knight hurried after the dragon.  "If I was so, why didn't I bring her here first?" ...
+Content words for last sentence: [bring]
+pink dragon. The knight wanted to marry the princess. The knight hurried after the dragon.  As the magic from the sky and the fairy godmother was reflected, the royal court did not bother.
+Content words for last sentence: [magic, sky, fairy, godmother, reflected, royal, court, bother]
+pink dragon. The knight wanted to marry the princess. The knight hurried after the dragon. In the end, she ran through the city alone.
+Content words for last sentence: [end, ran, city]
+pink dragon. The knight wanted to marry the princess. The knight hurried after the dragon.  Suit up!
+Content words for last sentence: [Suit]
+pink dragon. The knight wanted to marry the princess. The knight hurried after the dragon.   However, after hearing the voice of the other two people, the knight realized that she had no interest in such a thing.
+Content words for last sentence: [hearing, voice, people, realized, interest, thing]
+{pink (INFERRED): 4948.241949483256, knight (TEXT_BASED): 635.0267562686986, dragon (TEXT_BASED): 419.82198620032557, princess (TEXT_BASED): 406.202232190105, want (TEXT_BASED): 302.97968989158255}
+pink princess want. The knight hurried after the dragon. They fought for life and death.
+Content words for last sentence: [fought, life, death]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink princess want. The knight hurried after the dragon. They fought for life and death.  But the knight's voice came from the corner of the cave.
+Content words for last sentence: [voice, came, corner, cave]
+pink princess want. The knight hurried after the dragon. They fought for life and death.  The princess looked at the sky, before being overcome by the wind.
+Content words for last sentence: [looked, sky, overcome, wind]
+pink princess want. The knight hurried after the dragon. They fought for life and death.  Dragon's head was tilted downwards, it was as if it were moving from side to side.
+Content words for last sentence: [Dragon, head, tilted, downwards]
+pink princess want. The knight hurried after the dragon. They fought for life and death. Then their knight got hit by the demon magic.
+Content words for last sentence: [hit, demon, magic]
+pink princess want. The knight hurried after the dragon. They fought for life and death. All over the kingdom, all the knights of the realm fought to win.
+Content words for last sentence: [kingdom, realm, win]
+{pink (INFERRED): 5682.275017717448, knight (TEXT_BASED): 657.1246039115408, dragon (TEXT_BASED): 440.6595467836898, princess (TEXT_BASED): 428.3606708621673, want (TEXT_BASED): 314.39778021967294}
+pink knight dragon princess want. They fought for life and death. Soon, the knight's armor was completely scorched.
+Content words for last sentence: [Soon, knight, armor, completely, scorched]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink knight dragon princess want. They fought for life and death. Soon, the knight's armor was completely scorched. The red blood started to leak.
+Content words for last sentence: [red, blood, started, leak]
+pink knight dragon princess want. They fought for life and death. Soon, the knight's armor was completely scorched.  He stared at the sword sheathed on the blade.
+Content words for last sentence: [stared, sword, sheathed, blade]
+pink knight dragon princess want. They fought for life and death. Soon, the knight's armor was completely scorched. His armor had melted, exposing all the layers of his armor like a molten, hard white metal and it was so strong it broke a steel
+Content words for last sentence: [melted, exposing, layers, molten, hard, white, metal, strong, broke, steel]
+pink knight dragon princess want. They fought for life and death. Soon, the knight's armor was completely scorched.  "Ahaha!
+Content words for last sentence: []
+pink knight dragon princess want. They fought for life and death. Soon, the knight's armor was completely scorched. The sword is covered in scorching hot liquid, and his head is crushed.
+Content words for last sentence: [sword, covered, hot, liquid, head, crushed]
+{pink (INFERRED): 6767.968377780677, knight (TEXT_BASED): 791.5338386554489, dragon (TEXT_BASED): 463.1716664297446, princess (TEXT_BASED): 449.61537423089345, want (TEXT_BASED): 328.95244461023543}
+pink dragon princess want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon.
+Content words for last sentence: [knight, killed, dragon]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink dragon princess want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon. Then the knights fled for the woods.
+Content words for last sentence: [fled, woods]
+pink dragon princess want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon.  "A, as long as we have an army in this place, we should be able to take care of the monsters before the
+Content words for last sentence: [long, army, place, able, care, monsters]
+pink dragon princess want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon. It looked as if the king could make a single drop of flesh-colored blood!
+Content words for last sentence: [looked, king, single, drop, flesh, colored, blood]
+pink dragon princess want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon. But at that moment, a black blade flashed in the dark, as if there was no way he would have survived it if it had not
+Content words for last sentence: [moment, black, blade, flashed, dark, way, survived]
+pink dragon princess want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon.  But the princess' body was also scorching.
+Content words for last sentence: [body, scorching]
+{pink (INFERRED): 7513.434923914629, knight (TEXT_BASED): 914.2526940858532, dragon (TEXT_BASED): 579.6843709788355, princess (TEXT_BASED): 469.8105199188987, want (TEXT_BASED): 338.50786201025477}
+pink princess want. At last, the knight killed the dragon. The knight freed the princess.
+Content words for last sentence: [knight, freed, princess]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink princess want. At last, the knight killed the dragon. The knight freed the princess. Now, you can only assume the hero is dead.
+Content words for last sentence: [assume, hero, dead]
+pink princess want. At last, the knight killed the dragon. The knight freed the princess.  And, this is what's supposed to happen now? .
+Content words for last sentence: [supposed, happen]
+pink princess want. At last, the knight killed the dragon. The knight freed the princess. They both became a beautiful, strong couple.
+Content words for last sentence: [beautiful, strong, couple]
+pink princess want. At last, the knight killed the dragon. The knight freed the princess.  But the king of dragons is not here, so he must go.
+Content words for last sentence: [king]
+pink princess want. At last, the knight killed the dragon. The knight freed the princess. That's how you get the gold.
+Content words for last sentence: [gold]
+{pink (INFERRED): 8193.342360272938, knight (TEXT_BASED): 1040.0086968756198, dragon (TEXT_BASED): 598.5759795570871, princess (TEXT_BASED): 592.3101295107558, want (TEXT_BASED): 353.6792500022567}
+pink dragon want. The knight freed the princess. The princess was very thankful to the knight.
+Content words for last sentence: [princess, thankful, knight]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink dragon want. The knight freed the princess. The princess was very thankful to the knight.  "Now then, let's go to a nearby lake," Theo said.
+Content words for last sentence: [let, nearby, lake, Theo]
+pink dragon want. The knight freed the princess. The princess was very thankful to the knight. If it's a man, he's already a noble and would not give the royal blood.
+Content words for last sentence: [man, noble, royal, blood]
+pink dragon want. The knight freed the princess. The princess was very thankful to the knight.  "How can you have such a terrible idea when you can only use your magic for your own benefit?" .
+Content words for last sentence: [terrible, idea, use, magic, benefit]
+pink dragon want. The knight freed the princess. The princess was very thankful to the knight. "This is my little sister, Yohzaki.
+Content words for last sentence: [little, sister, Yohzaki]
+pink dragon want. The knight freed the princess. The princess was very thankful to the knight. A few days later, after receiving the blessing from the king, the two had sex again.
+Content words for last sentence: [days, later, receiving, blessing, king, sex]
+{pink (INFERRED): 9145.796331263258, knight (TEXT_BASED): 1152.0049952645304, princess (TEXT_BASED): 712.4789687493953, dragon (TEXT_BASED): 613.8145000513701, Yohzaki (INFERRED): 368.819521398874}
+pink dragon Yohzaki. The princess was very thankful to the knight. She married the knight.
+Content words for last sentence: [married, knight]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pink dragon Yohzaki. The princess was very thankful to the knight. She married the knight. They married on September 6th, 2005.
+Content words for last sentence: [September, 6th]
+pink dragon Yohzaki. The princess was very thankful to the knight. She married the knight. A year later, the princess married a boy named "Wisztler," and he married her as well.
+Content words for last sentence: [year, later, boy, Wisztler]
+pink dragon Yohzaki. The princess was very thankful to the knight. She married the knight. Then, she became the princess of the king's army.
+Content words for last sentence: [king, army]
+pink dragon Yohzaki. The princess was very thankful to the knight. She married the knight. They had a great marriage.
+Content words for last sentence: [great, marriage]
+pink dragon Yohzaki. The princess was very thankful to the knight. She married the knight.  The princess had some difficulties raising children.
+Content words for last sentence: [difficulties, raising, children]
+{pink (INFERRED): 10161.48441623284, knight (TEXT_BASED): 1271.667615186483, princess (TEXT_BASED): 739.4611120859704, dragon (TEXT_BASED): 627.9590916366269, Wisztler (INFERRED): 454.0320177071552}

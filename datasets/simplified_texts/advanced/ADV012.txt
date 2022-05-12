@@ -1,0 +1,47 @@
+(Note that some words, written in italics and marked like this*, are explained in the footnotes at the end of the article.)
+
+A huge asteroid hurtles in from outer space to devastate the Earth, an unstoppable force of nature from which there is no escape. Just such a catastrophe is thought to have killed off the dinosaurs and, according to most experts, it is only a matter of time before a similar fate befalls the human race.
+
+But perhaps not all hope is lost. Hundreds of scientists, from nuclear weapons engineers to planetary experts, are gathering in Washington this week to try to develop a master plan to protect the Earth from such an asteroid. 
+
+The Planetary Defence Conference, organized by the US Aerospace Corporation, will bring together scores of ideas on how to develop technology to track and deflect objects heading towards the Earth. The gathering will also consider the sticky problem of public relations - is it best to warn people if the worst comes to the worst?
+
+"The collision of a moderately large asteroid or comet, also referred to as a near-Earth object (NEO), with Earth would have catastrophic consequences," writes Dr Barbee, a space expert in a discussion paper to be presented at the meeting. "Such events have occurred in the past and will occur again in the future. However, for the first time in known history, humanity may have the technology required to counter this threat." 
+
+Many smaller objects around the Earth's orbit break up when they reach the atmosphere, with no impact beyond a short fireworks display. An NEO wider than 1km, however, collides with Earth every few hundred thousand years and an NEO larger than 6km, which could cause mass extinction, will collide with Earth every 100 million years. Experts agree that we are overdue for a big one. 
+
+A 390-metre wide asteroid named Apophis, discovered in 2004, has an outside chance* of hitting the Earth in 2036. If it struck, Apophis would release more than 100,000 times the energy released in the Hiroshima nuclear bomb. This blast would directly affect thousands of square kilometres, but the dust released into the atmosphere would affect the whole planet. There could be dark skies for a year or more, destroying crops worldwide. 
+
+Dr Barbee suggests that the solution to the problem of NEOs is nuclear. Detonated at the correct position, a nuclear weapon could blast away a thin shell of material from the asteroid, and cause the NEO "to miss Earth rather than collide". 
+
+The advantage of this idea is that it is possible with current technology - though no one has actually tried it yet. 
+
+Piet Hut, another expert, has a less dangerous idea - a robotic tugboat that could attach itself to an asteroid and push it out of the Earth's path. "Based on early warning, provided by ground tracking and orbit prediction, it would be sent out 10 years or more before potential impact". 
+
+The performance of the tugboat, he says, would depend on the development of a high-performance electric propulsion system called an ion engine. Instead of burning chemicals for fuel, these engines propel a spacecraft forwards by ejecting charged particles the other way. The thrust is minuscule - like the pressure of a piece of paper on your hand - but the engine is extremely efficient and lasts far longer than conventional rocket engines. Prof Hut calculates that such an engine could be used to deflect NEOs up to 800 metres across. 
+
+Ion engines would also be essential for another type of probe, the "gravity tractor". Instead of landing on an asteroid, though, the gravity tractor would hover near it, using the slight gravitational attraction* between the probe and the NEO to change its path. 
+
+As well as new technology plans, the Washington meeting will also consider how news of a potential catastrophic collision would affect the public psychologically. Al Harrison, a leading US social psychologist, says an NEO collision would present unique problems for the authorities, as they could know about a "near extinction level" danger so long in advance.
+
+The critical question psychologists will address is whether details of an impending impact should be kept secret, to avoid widespread panic. In December 2004, for example, scientists calculated that if Apophis did hit, it would land somewhere along a line that crossed central Europe, parts of the Middle East, the Ganges River valley (the most populated district on Earth), and on out across the Philippines. At the time, the information was kept secret and many NEO scientists agreed it was the right thing to do. 
+
+But Clark Chapman, a US planetary scientist, says secrecy goes against the advice of many experts in risk management, as studies of social psychology do not suggest that members of the public would immediately panic about an impending impact. On the other hand, if the news was given clumsily, people might misunderstand, become unduly alarmed, stop believing official statements, and ignore important warnings. 
+
+Footnotes 
+
+Near-Earth objects 
+
+Comets and asteroids pulled into orbits near the Earth by the gravitational attraction of planets. Most NEOs are made of ice and dust, or are bits of rock from the asteroid belt between Jupiter and Mars.
+
+Outside chance 
+
+Apophis had been tracked since its discovery in June 2004. In December that year, astronomers started to worry. When they projected its future orbit, they calculated that the chances of it hitting the Earth in 2029 were alarming. When it passes the Earth again on 13 April 2029, the asteroid should be deflected by the Earth and alter its orbit. But if that change makes Apophis pass through a particular point in space, called the keyhole, it will collide with the Earth on its next passage, in 2036. However, based on current information, the chance of Apophis passing through the keyhole, a 600-metre patch of space, is one in 5,500. 
+
+Dark skies 
+
+Scientists have estimated the effects of a massive asteroid collision by examining simulations of what would happen during a big nuclear war.
+
+Slight gravitational attraction 
+
+Everything in the universe that has mass attracts anything else with mass via the force of gravity. If a gravity tractor is placed near an asteroid, the asteroid will move fractionally towards it. Over a distance of millions of kilometers, even a slight deflection could move the asteroid out of the Earth's way.

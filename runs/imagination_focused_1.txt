@@ -1,0 +1,166 @@
+armor unfamiliar country. A young knight rode through the forest. The knight was unfamiliar with the country.  He knew the place, it was the first time he knew where the knights came from.
+Content words for last sentence: [knew, place, time, knew, came]
+armor unfamiliar country. A young knight rode through the forest. The knight was unfamiliar with the country. An elf from the neighboring continent, he was the same.
+Content words for last sentence: [elf, neighboring, continent]
+armor unfamiliar country. A young knight rode through the forest. The knight was unfamiliar with the country. They were just going to ride back to their village.
+Content words for last sentence: [village]
+armor unfamiliar country. A young knight rode through the forest. The knight was unfamiliar with the country.  The knight looked at the mountain, and it was a large city, with a long building, an altar, a church and a garden.
+Content words for last sentence: [looked, mountain, large, city, long, building, altar, church, garden]
+armor unfamiliar country. A young knight rode through the forest. The knight was unfamiliar with the country.  And it was not the Knight's fault.
+Content words for last sentence: [Knight, fault]
+{armor (INFERRED): 792.2623744468528, knight (TEXT_BASED): 189.44473396047144, know (INFERRED): 163.00516293711547, unfamiliar (TEXT_BASED): 116.46977869655814, country (TEXT_BASED): 110.72660532450267}
+armor know. The knight was unfamiliar with the country. Suddenly, a dragon appeared.
+Content words for last sentence: [Suddenly, dragon, appeared]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+armor know. The knight was unfamiliar with the country. Suddenly, a dragon appeared.  "I am an elf and you're my lord." , A dragon, who was being watched, had become an important player in the
+Content words for last sentence: [watched, important, player]
+armor know. The knight was unfamiliar with the country. Suddenly, a dragon appeared. It was a male dragon.
+Content words for last sentence: [male]
+armor know. The knight was unfamiliar with the country. Suddenly, a dragon appeared.  The knight took a glance at the dragon and saw that its eyes were filled with fear.
+Content words for last sentence: [glance, eyes, filled, fear]
+armor know. The knight was unfamiliar with the country. Suddenly, a dragon appeared.  "A knight?"
+Content words for last sentence: []
+armor know. The knight was unfamiliar with the country. Suddenly, a dragon appeared. It seemed to be an old and handsome knight, but a knight with a sharp sword.
+Content words for last sentence: [old, handsome, sharp, sword]
+{armor (INFERRED): 1538.3715276576067, knight (TEXT_BASED): 220.38082146711895, know (INFERRED): 176.58198888217004, unfamiliar (TEXT_BASED): 129.11061996079002, country (TEXT_BASED): 124.96147717884642}
+armor knight know unfamiliar country. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess.
+Content words for last sentence: [dragon, kidnapping, beautiful, princess]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+armor knight know unfamiliar. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess. His sword was missing.
+Content words for last sentence: [sword, missing]
+armor knight know unfamiliar. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess. A beautiful little girl who was a great beauty.
+Content words for last sentence: [little, girl, great, beauty]
+armor knight know unfamiliar. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess.  This knight did not know his own true identity.
+Content words for last sentence: [true, identity]
+armor knight know unfamiliar. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess. In the beginning, she would be in a happy place.
+Content words for last sentence: [beginning, happy, place]
+armor knight know unfamiliar. Suddenly, a dragon appeared. The dragon was kidnapping a beautiful princess.  The princess didn't die in the fight.
+Content words for last sentence: [die, fight]
+{armor (INFERRED): 2275.689679283837, dragon (TEXT_BASED): 254.26393468445707, knight (TEXT_BASED): 249.23628335225823, know (INFERRED): 198.46347612950385, sword (INFERRED): 178.9205398318831}
+armor knight know sword. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess.
+Content words for last sentence: [knight, wanted, free, princess]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+armor knight know. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess. This princess would be his slave, so the dragon had her kidnapped.
+Content words for last sentence: [slave]
+armor knight know. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess. But the dragon is now looking for revenge.
+Content words for last sentence: [looking, revenge]
+armor knight know. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess. It was too big and too much of a fight.
+Content words for last sentence: [big, fight]
+armor knight know. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess. He wanted the king to release her from the dragon's grip.
+Content words for last sentence: [king, release, grip]
+armor knight know. The dragon was kidnapping a beautiful princess. The knight wanted to free the princess.   The knight thought that he could do that if he gave his blessing to her.
+Content words for last sentence: [thought, blessing]
+{armor (INFERRED): 3011.6848836605677, knight (TEXT_BASED): 390.1473266944231, dragon (TEXT_BASED): 279.69718737897443, princess (TEXT_BASED): 262.3102383209949, know (INFERRED): 215.44864941569077}
+armor dragon know. The knight wanted to free the princess. The knight wanted to marry the princess.
+Content words for last sentence: [knight, wanted, marry, princess]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+armor dragon. The knight wanted to free the princess. The knight wanted to marry the princess. She would be there.
+Content words for last sentence: []
+armor dragon. The knight wanted to free the princess. The knight wanted to marry the princess. He had already prepared a lot of stuff for the war.
+Content words for last sentence: [prepared, lot, stuff, war]
+armor dragon. The knight wanted to free the princess. The knight wanted to marry the princess.  "That's a very, very bad idea."
+Content words for last sentence: [bad, idea]
+armor dragon. The knight wanted to free the princess. The knight wanted to marry the princess. He wanted the king to be his wife.
+Content words for last sentence: [king, wife]
+armor dragon. The knight wanted to free the princess. The knight wanted to marry the princess. All the knights were in it together, and each had their own goals.
+Content words for last sentence: [goals]
+{armor (INFERRED): 3738.401831610425, knight (TEXT_BASED): 521.4869294830423, princess (TEXT_BASED): 393.0713456125595, dragon (TEXT_BASED): 298.5440671702641, want (INFERRED): 287.1967473064967}
+armor dragon. The knight wanted to marry the princess. The knight hurried after the dragon.
+Content words for last sentence: [knight, hurried, dragon]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+armor dragon. The knight wanted to marry the princess. The knight hurried after the dragon.  "What happened?"
+Content words for last sentence: [happened]
+armor dragon. The knight wanted to marry the princess. The knight hurried after the dragon.  A dragon dragon had to be one of the best dragons.
+Content words for last sentence: [best]
+armor dragon. The knight wanted to marry the princess. The knight hurried after the dragon. After that, he was able to reach the castle and get back into the carriage.
+Content words for last sentence: [able, reach, castle, carriage]
+armor dragon. The knight wanted to marry the princess. The knight hurried after the dragon.  The knight was a bit embarrassed by the fact that the king was already a knight, but at the moment, he thought of a way to
+Content words for last sentence: [bit, embarrassed, fact, king, moment, thought, way]
+armor dragon. The knight wanted to marry the princess. The knight hurried after the dragon.  "He's not going to do that."
+Content words for last sentence: []
+{armor (INFERRED): 4456.185771866558, knight (TEXT_BASED): 639.5008966151103, princess (TEXT_BASED): 412.28525712989733, dragon (TEXT_BASED): 409.83497458499687, want (INFERRED): 312.9517895582764}
+armor princess want. The knight hurried after the dragon. They fought for life and death.
+Content words for last sentence: [fought, life, death]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+armor princess want. The knight hurried after the dragon. They fought for life and death.  A sword had pierced the armor princess' chest and the knights were unable to stop it.
+Content words for last sentence: [sword, pierced, chest, unable, stop]
+armor princess want. The knight hurried after the dragon. They fought for life and death. As for the princess' life, the knight thought he knew it.
+Content words for last sentence: [thought, knew]
+armor princess want. The knight hurried after the dragon. They fought for life and death. Their lives were not worth the risk.
+Content words for last sentence: [worth, risk]
+armor princess want. The knight hurried after the dragon. They fought for life and death.  "You are not a king, Princess!"
+Content words for last sentence: [king, Princess]
+armor princess want. The knight hurried after the dragon. They fought for life and death.  "You're an idiot, you are too stupid to be here.
+Content words for last sentence: [idiot, stupid]
+{armor (INFERRED): 4890.752824620082, knight (TEXT_BASED): 667.3877514035318, princess (TEXT_BASED): 432.8634995367579, dragon (TEXT_BASED): 426.61506118349473, want (INFERRED): 324.81058905632244}
+armor knight princess dragon want. They fought for life and death. Soon, the knight's armor was completely scorched.
+Content words for last sentence: [Soon, knight, armor, completely, scorched]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+armor knight princess dragon want. They fought for life and death. Soon, the knight's armor was completely scorched. His body was covered with flesh, blood, and even teeth.
+Content words for last sentence: [body, covered, flesh, blood, teeth]
+armor knight princess dragon want. They fought for life and death. Soon, the knight's armor was completely scorched. The knight fled, hoping to get the sword back, but the dragon tried to kill him.
+Content words for last sentence: [fled, hoping, sword, tried, kill]
+armor knight princess dragon want. They fought for life and death. Soon, the knight's armor was completely scorched. It was a terrible pain.
+Content words for last sentence: [terrible, pain]
+armor knight princess dragon want. They fought for life and death. Soon, the knight's armor was completely scorched.  In front of the castle's guards, knights, princesses, warriors, and knights who were all killed, were scattered into various parts
+Content words for last sentence: [castle, guards, warriors, killed, scattered]
+armor knight princess dragon want. They fought for life and death. Soon, the knight's armor was completely scorched. He was about to kill a dragon, but the dragon was not interested.
+Content words for last sentence: [kill, interested]
+{armor (INFERRED): 5577.610746154031, knight (TEXT_BASED): 824.1447267117252, princess (TEXT_BASED): 461.2486580576887, dragon (TEXT_BASED): 448.2784287704107, want (INFERRED): 340.97549576247206}
+princess dragon want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon.
+Content words for last sentence: [knight, killed, dragon]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+princess dragon want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon.  The Dragon had killed her.
+Content words for last sentence: [Dragon]
+princess dragon want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon.  But the Dragon was no longer with him, and his body had been burnt.
+Content words for last sentence: [Dragon, longer, body, burnt]
+princess dragon want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon.  The dragon looked to the king, who immediately rushed over and grabbed the sword that the two of them had drawn.
+Content words for last sentence: [looked, king, immediately, rushed, grabbed, sword, drawn]
+princess dragon want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon.  He could not afford to pay, but it was possible.
+Content words for last sentence: [afford, pay, possible]
+princess dragon want. Soon, the knight's armor was completely scorched. At last, the knight killed the dragon.  "Aaaahhhh!!" , as the man in front of the horse suddenly came to an end.
+Content words for last sentence: [man, horse, suddenly, came, end]
+{armor (INFERRED): 5593.2662244521225, princess (TEXT_BASED): 1233.0842204223543, knight (TEXT_BASED): 946.5049578498262, dragon (TEXT_BASED): 580.9234507107957, king (INFERRED): 369.21429566478986}
+armor princess king. At last, the knight killed the dragon. The knight freed the princess.
+Content words for last sentence: [knight, freed, princess]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+armor princess king. At last, the knight killed the dragon. The knight freed the princess. She was then freed by the king and she became the Queen of the North.
+Content words for last sentence: [Queen, North]
+armor princess king. At last, the knight killed the dragon. The knight freed the princess.  The princess was killed by a giant, who was in a hurry to save the queen.
+Content words for last sentence: [giant, hurry, save, queen]
+armor princess king. At last, the knight killed the dragon. The knight freed the princess.  The knights' king was so excited, he decided to go out on a rampage.
+Content words for last sentence: [excited, decided, rampage]
+armor princess king. At last, the knight killed the dragon. The knight freed the princess. Afterward, he sent a knight to the royal palace, where the king was.
+Content words for last sentence: [Afterward, sent, royal, palace]
+armor princess king. At last, the knight killed the dragon. The knight freed the princess. After that, he gave her to the lord of the town.
+Content words for last sentence: [lord, town]
+{armor (INFERRED): 6333.972887912428, princess (TEXT_BASED): 1360.3272437172614, knight (TEXT_BASED): 1071.9696988639544, dragon (TEXT_BASED): 605.5407605344742, king (INFERRED): 385.48457596537656}
+armor dragon king. The knight freed the princess. The princess was very thankful to the knight.
+Content words for last sentence: [princess, thankful, knight]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+armor dragon king. The knight freed the princess. The princess was very thankful to the knight. She asked for the dragon queen's permission to be married, but when the king refused, the queen asked him to kill her.
+Content words for last sentence: [asked, queen, permission, married, refused, queen, asked, kill]
+armor dragon king. The knight freed the princess. The princess was very thankful to the knight. Her magic power and her wisdom became the greatest treasures in the kingdom.
+Content words for last sentence: [magic, power, wisdom, greatest, treasures, kingdom]
+armor dragon king. The knight freed the princess. The princess was very thankful to the knight.  The knight returned to his tower and summoned his knight in the king's palace.
+Content words for last sentence: [returned, tower, summoned, palace]
+armor dragon king. The knight freed the princess. The princess was very thankful to the knight. She said, "I'm really sorry, but I won't let you go."
+Content words for last sentence: [sorry, let]
+armor dragon king. The knight freed the princess. The princess was very thankful to the knight. She did not wish to be held captive by his sword.
+Content words for last sentence: [wish, held, captive, sword]
+{armor (INFERRED): 7135.179808499078, princess (TEXT_BASED): 1484.3038007712341, knight (TEXT_BASED): 1185.1327247095721, dragon (TEXT_BASED): 636.0429931986117, king (INFERRED): 400.19988855730804}
+armor dragon king. The princess was very thankful to the knight. She married the knight.
+Content words for last sentence: [married, knight]
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+armor dragon king. The princess was very thankful to the knight. She married the knight. But as for her lover, he is an unknown.
+Content words for last sentence: [lover, unknown]
+armor dragon king. The princess was very thankful to the knight. She married the knight.  The princess also wanted to meet the king and the princess wanted her to have a happy marriage.
+Content words for last sentence: [wanted, meet, wanted, happy, marriage]
+armor dragon king. The princess was very thankful to the knight. She married the knight. After that the princess went to her father's house.
+Content words for last sentence: [father, house]
+armor dragon king. The princess was very thankful to the knight. She married the knight.  "Ah… Ah…" .
+20 
+Content words for last sentence: []
+armor dragon king. The princess was very thankful to the knight. She married the knight.  The princess gave him the dragon and gave birth to a child named Gudra.
+Content words for last sentence: [birth, child, Gudra]
+{armor (INFERRED): 7968.768840653637, princess (TEXT_BASED): 1512.153360575541, knight (TEXT_BASED): 1300.4726441092535, dragon (TEXT_BASED): 656.0562730714844, want (INFERRED): 526.4774643269593}
