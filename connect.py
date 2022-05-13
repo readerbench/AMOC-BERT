@@ -367,7 +367,8 @@ class AMOCBert():
                 self.generate_text_and_add_to_amoc_graph(selected_text, text_components_char_start)
                 self.amoc_graph.activate_and_deactivate_nodes()
                 self.amoc_graph.save_graph_to_pickle(i, self.folder_to_save_graphs)
-                # self.amoc_graph.draw_graph_top_n(i)
+                self.amoc_graph.draw_graph_top_n(i, top_n=10, use_aoe=self.use_aoe)
+                # self.amoc_graph.draw_full_graph(i)
                 continue
             
             self.amoc_graph.decay_edges_with_percentage(self.weigth_decay_percatage)
@@ -399,9 +400,10 @@ class AMOCBert():
             print(self.amoc_graph.get_max_active_nodes_by_score(use_aoe=self.use_aoe))
             # print(self.amoc_graph.get_top_n_nodes_by_score(10))
             print(self.amoc_graph.get_top_n_nodes_by_score(10, use_aoe=self.use_aoe))
-            self.amoc_graph.activate_and_deactivate_nodes()
+            self.amoc_graph.activate_and_deactivate_nodes(use_aoe=self.use_aoe)
             self.amoc_graph.save_graph_to_pickle(i, self.folder_to_save_graphs)
-            # self.amoc_graph.draw_graph_top_n(i)
+            self.amoc_graph.draw_graph_top_n(i, top_n=15, use_aoe=self.use_aoe)
+            # self.amoc_graph.draw_full_graph(i)
     
     
     def get_graph_lookback_and_current_text_char_start_dict(self, graph_text: str, lookback_sents: List[Span]):

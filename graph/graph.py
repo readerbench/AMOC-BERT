@@ -81,7 +81,7 @@ class AmocGraph:
         sorted_edges = sorted(self.edges.items(), key=lambda x: self.get_node_score(x[0]) * self.get_scale_factor_by_aoe(use_aoe, x[0]), reverse=True)
         return {word: self.get_node_score(word) * self.get_scale_factor_by_aoe(use_aoe, word) for word, neighbours in dict(sorted_edges[:self.max_active_concepts]).items() if word.node_type == AmocNodeType.TEXT_BASED or not only_text_based}
     
-    def activate_and_deactivate_nodes(self) -> AmocNode:
+    def activate_and_deactivate_nodes(self, use_aoe=False) -> AmocNode:
         word_to_score = self.get_max_active_nodes_by_score()
         for word in word_to_score:
             word.active = True
@@ -97,10 +97,10 @@ class AmocGraph:
                 updated_neighbours.append((neighbour[0], updated_value))
             self.edges[node] = updated_neighbours
     
-    def draw_graph_top_n(self, iteration, top_n=15):
+    def draw_graph_top_n(self, iteration, top_n=15, use_aoe=False):
         tmp = self.max_active_concepts
         self.max_active_concepts = top_n
-        top_nodes = set(self.get_max_active_nodes_by_score().keys())
+        top_nodes = set(self.get_max_active_nodes_by_score(use_aoe=use_aoe).keys())
         self.max_active_concepts = tmp
         G = nx.Graph()
         color_map = []
